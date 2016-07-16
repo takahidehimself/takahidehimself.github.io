@@ -1,0 +1,12 @@
+/**
+ * style.css
+ * Copyright (C) Erik Takahide Törnqvist
+ * http://thorntwig.se/
+ */
+
+body {
+    background-color: #fff;
+    font-family: Verdana, sans-serif;
+    font-size: 10px;
+    color: #333;
+}
